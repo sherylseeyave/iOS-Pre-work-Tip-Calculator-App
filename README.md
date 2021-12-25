@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] User can custom tip percentage using a control slide.
-- [X] User can split the bill.
+- [X] User can split the bill. Party Size default is one.
 
 ## Video Walkthrough
 
