@@ -10,8 +10,8 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -22,13 +22,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] User can custom tip percentage using a control slide.
+- [X] User can split the bill.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///Users/sherylseeyave/Downloads/TipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/62308045/147394739-0727edbf-129c-493b-98df-395fbf8ca4be.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
